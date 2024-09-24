@@ -1,32 +1,53 @@
+# Ofir Tamir
 
-# 👋 Hey, I'm Ofir Tamir!
+![Profile Views](https://komarev.com/ghpvc/?username=ofirtamir&color=blue)
 
-### 👨‍💻 About Me:
-I'm a passionate **Software Engineering and Information Systems** student, currently in my **fourth year**. I love solving complex problems and working on innovative solutions. My strong teamwork and communication skills have been shaped by my experiences both in the academic field and in various leadership roles.
+## 🙋‍♂️ About Me
+I am a fourth-year **Software and Information Systems Engineering** student with a passion for problem-solving and teamwork. With a **GPA of 92**, I am seeking a software development role to make a significant impact.
 
-- 🎓 **GPA:** 92
-- 🎖 **Ben-Gurion Badge** recipient
-- 💡 Completed a special entrepreneurship course: *Innovation and Entrepreneurship in Health and Medicine* in collaboration with Soroka Hospital.
-- 🚀 Enthusiastic about product management, problem-solving, and software development.
-- ⚙️ **Languages/Frameworks**: Java, Python, Vue.js, HTML, CSS, Express.js
-- 💻 **Currently working on**: Recipe database project, Vue.js projects, and IT-related projects.
-  
-### 🌍 Experience:
-- 🛠 **IT Projects Specialist Intern**
-- 🎓 **Submarine Unit Operator (2015-2020)**: Managed communication systems and contributed to team success under challenging conditions.
-- 🏂 **Snowboarding Instructor**: Leveraged strong interpersonal skills to create a fun and educational environment.
+## 🛠️ Skills
+- **Programming Languages**:  
+  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+  ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
 
-### 🌱 I’m currently learning:
-- Advanced software development methodologies.
-- Improving my skills in Vue.js and cloud computing solutions.
+- **Technologies**:  
+  ![OOP](https://img.shields.io/badge/OOP-007396?style=for-the-badge&logo=java&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-### 📫 How to reach me:
-- LinkedIn: [Ofir Tamir](https://linkedin.com/in/ofirtamir)
-- Email: ofirtamir@example.com
+- **Additional Skills**:  
+  Real-time problem-solving, Data analysis, AI, Machine Learning
 
-### 💬 Fun Fact:
-When I'm not coding, you can find me teaching snowboarding, volunteering with special needs individuals, or working on innovative startup ideas.
+## 💼 Experience
 
----
+### AI Software Intern, SightBit (2024 – Present)
+- Worked on real-time problems, enhancing lifeguard systems for detecting dangers in open waters.
+- Analyzed data from AI models for accuracy improvements.
 
-Thanks for visiting my profile! Let's collaborate and create something amazing together!
+### Entrepreneur, Leadership & Entrepreneurship Program, Ben Gurion University (2023 – 2024)
+- Led product management operations for **ChargeIt**, a startup developing solutions for electric vehicle charging stations.
+- Built business plans, recruited investors, and collaborated with the team on strategic decisions.
+
+### Commander and Combatant, Israeli Navy Submarine Unit (2015 – 2020)
+- Managed satellite, network, and command systems.
+- Awarded Excellence of Navy Submarine Squadron.
+
+## 🎓 Education
+**B.Sc. in Software and Information Systems Engineering**  
+Ben Gurion University of the Negev (2021 – Present)
+
+- Notable Courses: Algorithms, Operating Systems, Machine Learning, Introduction to AI.
+- **Awards**: Recipient of the Ben-Gurion Award for exceptional contribution to the university and community.
+
+## 🌍 Languages
+- **Hebrew**: Native
+- **English**: Fluent
+
+## 📫 Contact Me
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofirtamirmail@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/ofir-tamir)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ofirtamir)
