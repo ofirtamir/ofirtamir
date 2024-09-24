@@ -3,7 +3,7 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ofirtamir&color=blue)
 
 ## 🙋‍♂️ About Me
-I am a fourth-year **Software and Information Systems Engineering** student with a passion for problem-solving and teamwork. With a **GPA of 92**, I am seeking a software development role to make a significant impact.
+I am a fourth-year **Software and Information Systems Engineering** student with a passion for problem-solving and teamwork. With an **annual GPA of 92**, I am seeking a software development role to make a significant impact.
 
 ## 🛠️ Skills
 - **Programming Languages**:  
