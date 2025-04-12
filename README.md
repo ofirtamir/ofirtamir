@@ -3,8 +3,8 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=ofirtamir&color=blue)
 
 ## 🙋‍♂️ About Me
-I am a fourth-year **Software and Information Systems Engineering** student with a passion for problem-solving and teamwork. With an **annual GPA of 92**, I am seeking a software development role to make a significant impact.
-
+Motivated software developer with practical experience in Python, Java and JavaScript. Proven ability to build and 
+maintain robust backend systems, solve complex problems, and optimize algorithms and data structures. 
 ## 🛠️ Skills
 - **Programming Languages**:  
   ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
